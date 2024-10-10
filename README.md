@@ -11,3 +11,12 @@ The data set includes the following:
 4.
 
 ### Objectives
+
+
+
+### Formula Used
+```
+Average Revenue = Total Revenue / Units Sold
+```
+### Tools and Methods Used
+The tool used was Microsoft Excel 
