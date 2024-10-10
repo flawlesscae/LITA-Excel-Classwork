@@ -21,11 +21,23 @@ The data set contains the following key details:
 ### Objectives
 The objectives of this report is to find:
 1. Total revenue generated from each region.
+2. The region with the highest sales.
+3. Average sales per region.
 
+### Key Metrics used to meet the set Objectives
+1. Revenue
+2. Region
+3. Units sold
 
 ### Formula Used
 ```
+Autosum of revenue
+Autosum of units sold
 Average Revenue = Total Revenue / Units Sold
 ```
-### Tools and Methods Used
-The tool used was Microsoft Excel 
+### Tools
+The data was sorted, analyzed and visualized using tables, charts and pivot tables in Microsoft Excel.
+
+## Visualization
+### 1. Revenue by Region 
+
