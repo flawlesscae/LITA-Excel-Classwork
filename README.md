@@ -1,5 +1,22 @@
 # LITA
 ## Sales Analysis using Microsoft Excel
+## Outline
+[Overview](#overview)
+
+[Data Collected](#data-collected)
+
+[Objectives](#objectives)
+
+[Key Metrics](#key-metrics)
+
+[Tools](#tools)
+
+[Steps](#steps)
+
+[Data Analysis](#data-analysis)
+
+[Visualization](#visualization)
+
 ### Overview
 ---
 In this project, the data collected from various regions, markets, stores and transaction categories over several months and years is analyzed to help the board of directors in understanding revenue trends and sales performances across all regions.  
@@ -26,7 +43,8 @@ The objectives of this report is to find:
 2. The region with the highest sales.
 3. Average sales per region.
 
-### Key Metrics used to meet the set Objectives
+### Key Metrics
+Listed below are the key metrics used to meet the set objectives;
 1. Revenue
 2. Region
 3. Units sold
@@ -44,8 +62,8 @@ The following actions were the first steps taken to prepare our data set:
 1. Data loading and Inspection
 2. Data Cleaning and Formatting
 
-### Exploratory Data Analysis (EDA)
-This involves exploring the data set to answer key questions such as:
+### Exploratory Data Analysis 
+EDA involves exploring the data set to answer key questions such as:
 - Overall sales trend.
 - Which stores are the generating the most revenue.
 - What regions have customers with the most purchasing power.
