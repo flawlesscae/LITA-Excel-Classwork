@@ -1,9 +1,11 @@
 # LITA
 ## Sales Analysis using Microsoft Excel
 ### Overview
+---
 In this project, the data collected from various regions, markets, stores and transaction categories over several months and years is analyzed to help the board of directors in understanding revenue trends and sales performances across all regions.  
 
 ### Data Collected 
+---
 The data set contains the following key details:
 1. **Region**: The geographical locations of the stores.
 2. **Market**: Specific categories within a region.
@@ -30,15 +32,33 @@ The objectives of this report is to find:
 3. Units sold
 4. Market
 
-### Formula Used
+### Tools
+The tools used include:
+- Microsoft Excel for 
+  1. Cleaning
+  2. Analysis (using pivot tables) and 
+  3. Visualization (using charts)
+
+### Steps
+The following actions were the first steps taken to prepare our data set:
+1. Data loading and Inspection
+2. Data Cleaning and Formatting
+
+### Exploratory Data Analysis (EDA)
+This involves exploring the data set to answer key questions such as:
+- Overall sales trend.
+- Which stores are the generating the most revenue.
+- What regions have customers with the most purchasing power.
+
+### Data Analysis
+---
+Listed below are basic formulas/codes/queries and even DAX (data analysis expressions) used during analysis; 
 ```
 Autosum of revenue
 Autosum of units sold
 Average Revenue = Total Revenue / Units Sold
 ```
-### Tools
-The data was sorted, analyzed and visualized using tables, charts and pivot tables in Microsoft Excel.
-
+  
 ## Visualization
 ### 1. Revenue by Region 
 
@@ -51,6 +71,13 @@ The data was sorted, analyzed and visualized using tables, charts and pivot tabl
 
 
 ### 3. Top 5 Markets by Revenue
+
+
+
+
+
+### Link for tools download
+1. Microsoft Excel [Download Microsoft Excel Here](https://www.microsoft.com)
 
 
 
