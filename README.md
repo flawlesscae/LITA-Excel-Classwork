@@ -28,6 +28,7 @@ The objectives of this report is to find:
 1. Revenue
 2. Region
 3. Units sold
+4. Market
 
 ### Formula Used
 ```
@@ -40,4 +41,17 @@ The data was sorted, analyzed and visualized using tables, charts and pivot tabl
 
 ## Visualization
 ### 1. Revenue by Region 
+
+![image](https://github.com/user-attachments/assets/cfbbfb6b-de7b-4715-adf8-2daee85132e5)
+
+
+### 2. Sum of Units Sold by Region
+
+![image](https://github.com/user-attachments/assets/bed03139-764f-487b-9437-7f2c7a8442be)
+
+
+### 3. Top 5 Markets by Revenue
+
+
+
 
