@@ -38,12 +38,14 @@ The data set contains the following key details:
 12. **Transaction Category**: Whether the sales were made online or onsite.
     
 ### Objectives
+---
 The objectives of this report is to find:
 1. Total revenue generated from each region.
 2. The region with the highest sales.
 3. Average sales per region.
 
 ### Key Metrics
+---
 Listed below are the key metrics used to meet the set objectives;
 1. Revenue
 2. Region
@@ -51,6 +53,7 @@ Listed below are the key metrics used to meet the set objectives;
 4. Market
 
 ### Tools
+---
 The tools used include:
 - Microsoft Excel for 
   1. Cleaning
@@ -58,11 +61,13 @@ The tools used include:
   3. Visualization (using charts)
 
 ### Steps
+---
 The following actions were the first steps taken to prepare our data set:
 1. Data loading and Inspection
 2. Data Cleaning and Formatting
 
 ### Exploratory Data Analysis 
+---
 EDA involves exploring the data set to answer key questions such as:
 - Overall sales trend.
 - Which stores are the generating the most revenue.
@@ -78,6 +83,7 @@ Average Revenue = Total Revenue / Units Sold
 ```
   
 ## Visualization
+---
 ### 1. Revenue by Region 
 
 ![image](https://github.com/user-attachments/assets/cfbbfb6b-de7b-4715-adf8-2daee85132e5)
