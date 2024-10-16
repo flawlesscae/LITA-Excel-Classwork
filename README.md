@@ -85,15 +85,23 @@ Average Revenue = Total Revenue / Units Sold
 ---
 ### 1. Revenue by Region 
 
-![image](https://github.com/user-attachments/assets/cfbbfb6b-de7b-4715-adf8-2daee85132e5)
+![LITA Revenue](https://github.com/user-attachments/assets/e1a06135-b89f-4b9d-8783-2bdb07190186)
+
+![LITA Revenue Chart](https://github.com/user-attachments/assets/6ba90490-7fbe-4755-bf87-1f8afde296ab)
+
 
 
 ### 2. Sum of Units Sold by Region
 
-![image](https://github.com/user-attachments/assets/bed03139-764f-487b-9437-7f2c7a8442be)
+![LITA Sums of Units Sold](https://github.com/user-attachments/assets/bb9a3805-b418-4bf5-bdf8-649a0dc508b3)
+
+![LITA Sums of Units Sold Chart](https://github.com/user-attachments/assets/57439113-35c6-4a1e-adf9-68a4116cfe9f)
+
 
 
 ### 3. Top 5 Markets by Revenue
+
+![LITA Top 5](https://github.com/user-attachments/assets/b8136dae-b22d-4223-a13a-7413ea27ae40)
 
 
 
