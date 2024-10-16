@@ -103,7 +103,8 @@ Average Revenue = Total Revenue / Units Sold
 
 ![LITA Top 5](https://github.com/user-attachments/assets/b8136dae-b22d-4223-a13a-7413ea27ae40)
 
-![LITA Top 5 Chart](https://github.com/user-attachments/assets/903a64c0-dc3f-484b-8ba2-e509a5380763)
+![LITA Top 5 Chart](https://github.com/user-attachments/assets/3cb0748f-5f4d-4c57-ac98-d43eb09a2b2c)
+
 
 
 
