@@ -16,6 +16,8 @@
 
 [Visualization](#visualization)
 
+[Inference](#inference)
+
 ### Overview
 ---
 In this project, the data collected from various regions, markets, stores and transaction categories over several months and years is analyzed to help the board of directors in understanding revenue trends and sales performances across all regions.  
@@ -104,6 +106,15 @@ Average Revenue = Total Revenue / Units Sold
 ![LITA Top 5](https://github.com/user-attachments/assets/b8136dae-b22d-4223-a13a-7413ea27ae40)
 
 ![LITA Top 5 Chart](https://github.com/user-attachments/assets/9919d89e-2f7c-4b99-9817-0577dc0d674f)
+
+
+## Inference
+---
+### 1. Revenue by Region
+
+### 2. Sum of Units Sold by Region
+
+### 3. Top 5 Markets by Revenue
 
 
 
