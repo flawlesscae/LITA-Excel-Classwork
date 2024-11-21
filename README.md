@@ -111,16 +111,78 @@ Average Revenue = Total Revenue / Units Sold
 ## Inference
 ---
 ### 1. Revenue by Region
+**(a). Overall Revenue:**
+- The total revenue across all regions is significantly exceeding 73 billion.
+- There is a substantial variation in the revenue generates across regions.
+  
+**(b). Regional Performance:**
+- The North-East region generated the highest revenue, followed by the South-West and South-South regions.
+- The region that generated the lowest revenue of 6,489,332,640bn is the North-Central, the North-West region made a slightly higher revenue (9,386,346,720bn) than the North-Central region.
+
+**(c). Potential Insights:**
+
+**Market Potential:** 
+- Regions with higher revenue might have untapepd market potential for further growth.
+- More marketing should be done in those areas by way of e.g introducing categories of incentives for loyal/returning and new customers.
+
+**Operational Efficiency**
+- Further analysis should be done to identify areas for improvement in operational efficiency for regions generating lower revenue.
+- Marketing strategies targeted at bringing in and retaining new customers should be employed.
+
+**Geographical Factors**
+- Analysis on how certain factors such as population density, economic activity, and infrastructure could influence regional revenue disparities should be carried out.
+- Strategies on how to leverage the above to the company's advantage should be developed and implemented.
 
 ### 2. Sum of Units Sold by Region
+**(a). Overall Sales Performance:**
+- The total units sold across all regions is 786,678. This indicates a significant sales volume.
+- There is a variation in sales performance across regions, with North East leading in sales followed by South West and South South.
+
+**(b). Regional Performance:**
+- **North East:** This region boasts the highest sales figures, likely indicating a strong market presence, effective marketing strategies, or a combination of both.
+- **South West and South South:** These regions show consistent performance, suggesting a stable market and potentially a loyal customer base.
+- **North Central and North West:** These regions have the lowest sales figures as compared to other regions. This could be due to various factors such as economic conditions, infrastructure, or competitive landscape in those regions.
+
+**(c). Potential Insights:**
+- **Markt Expansions:** The North East region could be a potential target for expanding sales efforts in other regions.
+- **Marketing Optimization:** Analyzing the marketing strategies of the North East region could provide insights for improving sales in other regions.
+- **Regional Analysis:** A deeper analysis of the factors influencing sales in each region could provide valuable insights for future strategies.
+- **Customer Segmentation:** Identifying specific customer segments within each region could help tailor marketing efforts and improve sales.
+
+**(d). Limitations:**
+- Without additional context, like time period, product type, or competitive landscape, it is difficult to draw definitive conclusions about the underlying causes of low sales performances in the regions with the lowest revenues.
+- A more comprehensive analysis would require additional data points, such as market share, customer demographics, and economic indicators.
+
+**(e). Recommendations:**
+- Conduct a detailed analysis of each region's market dynamics and competitive landscape.
+- Implement targeted marketing strategies for each region based on their specific needs and preferences.
+- Monitor sales trends regularly to identify potential issues and opportunities.
+- Invest in market research to gain deeper insights into customer behaviour and preferences. 
 
 ### 3. Top 5 Markets by Revenue
+**(a). Overall Revenue:**
+- The overall revenue across the 5 top markets exceeds 22bn which is about 30% of the total revenue generated across board.
+- There is a clear variation in revenue generation across these markets which could have been influenced by factors such as economic conditions, infrastructure etc.
 
+**(b). Market Performance:**
+- Ekiti has the highest revenue, followed by Abia and Bayelsa.
+- Akwa Ibom and Kogi have the lowest revenue amongst the 5.
 
+**(c). Potential Insights:**
+- **Market Potential:** Ekiti, Abia and Bayelsa seem to have significant market potential.
+- **Competitive Landscape:** Understanding the competitive landscape in each market can help identify opportunities and challenges.
+- **Marketing Strategy:** Tailoring marketing strategies to specific markets could optimize resource allocation and increase revenue.
+- **Geographical Factors:** Factors like population density, economic activity, and infrastructure could influence market revenue.
 
+**(d). Limitations:**
+- Without additional context, like time period, product type, or competitive landscape, it is difficult to draw definitive conclusions about the underlying causes for revenue generation patterns across markets.
+- A more comprehensive analysis would require additional data points, such as market share, customer demographics, and economic indicators.
 
-
-
+ **(e) Recommendations:**
+ - Conduct a detailed analysis of each market's dynamics and competitive landscape.
+ - Implement targeted marketing strategies for each market based on their specific needs and preferences.
+ - Monitor revenue trends regularly to identify potential issues and opportunities.
+ - Invest in market research to gain deeper insights into customer behavior and preferences.
 
 
 ### Link for tools download
@@ -128,5 +190,6 @@ Average Revenue = Total Revenue / Units Sold
 1. Microsoft Excel [Download Microsoft Excel Here](https://www.microsoft.com)
 
 
+   
 
 
